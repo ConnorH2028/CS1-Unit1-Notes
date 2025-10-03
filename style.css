@@ -22,3 +22,12 @@ ul {
 li{
     color:white;
 }
+
+h1 {
+    color: navy;
+    font-weight: 200;
+    font-style:italic;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+}
